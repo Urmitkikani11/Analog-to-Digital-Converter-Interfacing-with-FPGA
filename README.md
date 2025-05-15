@@ -61,8 +61,8 @@ The Verilog module handles:
 
 ## 📦 Repository Contents
 
-- [`ADC.v`](ADC.v) – Verilog module for ADC0809 interface  
-- [`Report FPGA.pdf`](22BEC137_FPGA%20REPORT.pdf) – Project report with diagrams, results, and conclusion  
+- [`ADC.v`](Code/ADC.v) – Verilog module for ADC0809 interface  
+- [`Report FPGA.pdf`](Report/22BEC137_FPGA%20REPORT.pdf) – Project report with diagrams, results, and conclusion  
 - [`Flow chart.pdf`](Flow%20chart/Flow%20chart.pdf) – Logic flow of the system  
 - [`Block Diagram.pdf`](Block%20diagram/Block%20Diagram%20.pdf) – Hardware connection overview  
 - `README.md` – You are here 📘
