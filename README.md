@@ -105,7 +105,6 @@ The Verilog module handles:
 ## 🙌 Acknowledgements
 
 Special thanks to [**Neha Golani**](https://github.com/Nehagolani19) for contributing significantly to the project and supporting the hardware setup and documentation.  
-Gratitude to **Prof. Hardik Joshi** and the faculty of Nirma University for continuous guidance.
 
 ---
 
